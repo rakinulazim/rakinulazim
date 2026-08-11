@@ -49,10 +49,19 @@ I build web applications, WordPress solutions, and intelligent automation system
 
 ---
 
+## 📁 Project Portfolio (Google Drive)
+
+[![Google Drive](https://img.shields.io/badge/View%20All%20Projects-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FlEgP0M0aqkbI9-P5uwKPT8P20V7dgUr?usp=drive_link)
+
+> Full project files, demos, and documentation available on Google Drive.
+
+---
+
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakinulazim1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakinulazim)
+[![Google Drive](https://img.shields.io/badge/Portfolio%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FlEgP0M0aqkbI9-P5uwKPT8P20V7dgUr?usp=drive_link)
 
 ---
 
