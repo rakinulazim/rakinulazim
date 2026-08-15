@@ -1,8 +1,16 @@
 # Hi, I'm Rakinul Azim 👋
 
-**Full-Stack Developer & AI Automation Engineer** based in Bangladesh 🇧🇩
+### Full-Stack Developer & AI Automation Engineer 🇧🇩
 
-I build web applications, WordPress solutions, and intelligent automation systems that solve real-world problems.
+I'm a passionate developer and automation engineer from Bangladesh with a strong focus on building **real-world solutions** that save time, reduce manual work, and scale businesses intelligently.
+
+I work across the full technology stack — from crafting responsive web applications with **Python, Django, and React**, to building custom **WordPress plugins and themes**, to designing sophisticated **AI-powered automation systems** using tools like **n8n, OpenAI, and Retell AI**.
+
+My journey started with web development, but over time I've grown into the world of **AI automation engineering** — building voice agents, intelligent receptionists, RAG-based support systems, and multi-step workflows that connect APIs, CRMs, and third-party services seamlessly.
+
+I believe the best technology is the kind that **works quietly in the background**, handling complex tasks so people can focus on what truly matters. Whether it's an AI agent that books consultations over the phone, or an automated system that processes customer emails — I build systems that work while you sleep.
+
+> 💡 Currently focused on **AI Voice Agents**, **RAG systems**, and **no-code/low-code automation** with n8n.
 
 ---
 
