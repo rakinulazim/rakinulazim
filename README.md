@@ -42,8 +42,11 @@ I believe the best technology is the kind that **works quietly in the background
 
 ## 📫 Get in Touch
 
+Connect with me on LinkedIn: [Md. Rakinul Azim — AI Automation Engineer & WordPress Developer](https://www.linkedin.com/in/rakinul-azim-rakin/)
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakinulazim1997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakinulazim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakinul-azim-rakin/)
 
 ---
 
